@@ -1,3 +1,5 @@
+#This code was written while I was a either a sophmore or junior in highschool
+
 import tkinter
 from tkinter import *
 
